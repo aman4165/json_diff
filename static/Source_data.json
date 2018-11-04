@@ -1,0 +1,29 @@
+ {
+"name": "Kaleigh",
+"username": "Kaleigh60",
+"email": "Kaleigh6047@gmail.com",
+"address": {
+"street": "Myah Course",
+"suite": "Apt. 657",
+"city": "Boyerberg",
+"zipcode": "66413-8920",
+"geo": {
+"lat": "-44.6203",
+"lng": "16.7454"
+}
+},
+"website": "megane.biz",
+"friends": [
+{
+"name": "Little-Reinger",
+"catchPhrase": "Enhanced regional emulation"
+},
+{
+"name": "Big-Reinger",
+"catchPhrase": "emulation"
+}
+],
+"Numbers": [
+1, 2, 3, 4
+]
+}
